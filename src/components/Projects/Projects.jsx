@@ -10,6 +10,9 @@ const Projects = () => {
             <ProjectCard title="Mobile Store website" main="this is a e-commerce mobile store website created with react in frontend and Flask in backend. it also has a chatbot created with pytorch."  demoLink="https://arbab990.github.io/Sun-Business-Mobile-Store/"
                 sourceCodeLink="https://github.com/Arbab990/Sun-Business-Mobile-Store"
             />
+            <ProjectCard title="FinSmart" main="A modern finance tracker with a AI finance Advisor powered by Gemini "  demoLink="https://fin-smart-app.vercel.app/"
+                sourceCodeLink="https://github.com/FinSmart-App"
+            />
         </div>
     </div>
   )
